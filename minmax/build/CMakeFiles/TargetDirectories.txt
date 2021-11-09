@@ -1,0 +1,5 @@
+/home/weslley/Lp1-2021-2/Lp1-2021-2-Lista1/minmax/build/CMakeFiles/rebuild_cache.dir
+/home/weslley/Lp1-2021-2/Lp1-2021-2-Lista1/minmax/build/CMakeFiles/edit_cache.dir
+/home/weslley/Lp1-2021-2/Lp1-2021-2-Lista1/minmax/build/CMakeFiles/run_tests.dir
+/home/weslley/Lp1-2021-2/Lp1-2021-2-Lista1/minmax/build/CMakeFiles/all_tests.dir
+/home/weslley/Lp1-2021-2/Lp1-2021-2-Lista1/minmax/build/CMakeFiles/func.dir

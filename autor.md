@@ -2,20 +2,19 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<__insira seu nome aqui__>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: *Weslley Bernardo de Olivera*
+- Email: *weslley.bernardo7@gmail.com*
+- Turma: *IMD0030 - T02*
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
-- [ ] Soma Vizinhos
-- [ ] Intervalos
+- [X] Negativos 5
+- [X] Soma Vizinhos
+- [X] Intervalos
 - [ ] Fibonacci
-- [ ] Minmax
-- [ ] Inverter
-- [ ] Filtragem
-- [ ] Ponto em Retângulo 1
+- [X] Minmax
+- [X] Inverter
+- [X] Ponto em Retângulo 1
 - [ ] Ponto em Retângulo 2
 
 

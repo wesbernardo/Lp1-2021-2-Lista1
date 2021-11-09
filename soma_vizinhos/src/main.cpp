@@ -10,7 +10,28 @@ using std::endl;
 
 int main( void )
 {
-    // TODO: Adicione seu código aqui. 
+    int m, n;
+
+    while (cin >> m >> n)
+    {
+        int soma_vizinhos = m; // iniciando a soma dos vizinhos
+
+        while (n < -1 || n > 1)
+        {
+            if (n > 0)
+            {
+                soma_vizinhos += (++m);
+                n--;
+            }
+            else
+            {
+                soma_vizinhos += (--m);
+                n++;
+            }
+        }
+
+        cout << soma_vizinhos << endl;
+    }
 
     return 0;
 }

@@ -7,7 +7,7 @@ using std::array;
 using std::string;
 
 template <std::size_t SIZE>
-void reverse( std::array<std::string,SIZE> & arr );
+void reverse( array<string,SIZE> & arr );
 
 #include "function.cpp"
 #endif
